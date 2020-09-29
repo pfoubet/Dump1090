@@ -1,6 +1,8 @@
 Dump1090 README
 ===
 
+Version Linux Debian simplifiee par PF le 29/09/2020
+
 Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices.
 
 The main features are:
